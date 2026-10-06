@@ -1,0 +1,129 @@
+{
+  "engine_enabled": true,
+  "interstitial_every_n_actions": 3,
+  "interstitial_min_interval_ms": 60000,
+  "interstitial_min_watch_ms": 5000,
+  "rewarded_min_watch_ms": 15000,
+  "creatives": [
+    {
+      "id": "tower_interstitial_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/Interstitial_1.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Build higher, time every move and reach the top!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "tower_banner_3",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://babakdriver.xyz/house-ads/twmedia/BannerAd_3.png",
+      "icon_url": "https://babakdriver.xyz/house-ads/twmedia/icon.png",
+      "title": "Real Tower Online",
+      "body": "Build higher and master the tower challenge!",
+      "cta_text": "Install",
+      "bundle_id": "com.velvetgable.curfewbellworks",
+      "weight": 1
+    },
+    {
+      "id": "road_interstitial_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/Interstitial_2.png",
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "Cross busy roads, avoid danger and help the chicken reach the other side!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    },
+    {
+      "id": "road_banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/BannerAd_3.png",
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "Time your moves and help the chicken reach the other side!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    },
+    {
+      "id": "fishing_interstitial_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://fluxaura-app.github.io/fish/res/Interstitial_3.png",
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "Go fishing, collect great catches and discover exciting locations!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "fishing_banner_2",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://fluxaura-app.github.io/fish/res/BannerAd_2.png",
+      "icon_url": "https://fluxaura-app.github.io/fish/res/icon.png",
+      "title": "Officіal Fіshіng",
+      "body": "Catch more fish and explore new waters!",
+      "cta_text": "Install",
+      "bundle_id": "com.mosaicjaguar.prismprowlcanopy",
+      "weight": 1
+    },
+    {
+      "id": "sweet_play_interstitial_2",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://uzuduqoyi607-blip.github.io/bonza-config/house-ads/bonza/Interstitial_2.png",
+      "icon_url": "https://uzuduqoyi607-blip.github.io/bonza-config/house-ads/bonza/icon.png",
+      "title": "Sweet Play",
+      "body": "Sweet surprises and colorful challenges are waiting!",
+      "cta_text": "Install",
+      "bundle_id": "com.welcomenightpass",
+      "weight": 1
+    },
+    {
+      "id": "sweet_play_banner_3",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://uzuduqoyi607-blip.github.io/bonza-config/house-ads/bonza/BannerAd_3.png",
+      "icon_url": "https://uzuduqoyi607-blip.github.io/bonza-config/house-ads/bonza/icon.png",
+      "title": "Sweet Play",
+      "body": "Enter the sweet world and start playing!",
+      "cta_text": "Install",
+      "bundle_id": "com.welcomenightpass",
+      "weight": 1
+    },
+    {
+      "id": "ra_banner_2",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://uzuduqoyi607-blip.github.io/book/res/BannerAd_2.png",
+      "icon_url": "https://uzuduqoyi607-blip.github.io/book/res/icon.png",
+      "title": "Official Ra Gаme",
+      "body": "Discover treasures and mysteries of Ra!",
+      "cta_text": "Install",
+      "bundle_id": "com.cocoawhisk.drinks.app",
+      "weight": 1
+    },
+        {
+      "id": "ra_interstitial_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://uzuduqoyi607-blip.github.io/book/res/Interstitial_3.png",
+      "icon_url": "https://uzuduqoyi607-blip.github.io/book/res/icon.png",
+      "title": "Official Ra Gаme",
+      "body": "Begin your Egyptian journey and uncover the secrets of the ancient world!",
+      "cta_text": "Install",
+      "bundle_id": "com.cocoawhisk.drinks.app",
+      "weight": 1
+    }
+  ]
+}
