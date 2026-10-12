@@ -1,0 +1,6 @@
+# Effective only when this file is served from the host root /robots.txt.
+# On a GitHub Pages project subpath, submit sitemap.xml directly in Search Console.
+User-agent: *
+Allow: /
+
+Sitemap: https://arkenrockapp.github.io/park/sitemap.xml
